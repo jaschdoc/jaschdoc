@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻: Number of times asked for IT Support: 3 + c for some constant c (since the 20th of November 2020)
+👨‍💻 Number of times asked for IT Support: 3 + c for some constant c (since the 20th of November 2020)
 
 <!--
 **jaschdoc/jaschdoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
